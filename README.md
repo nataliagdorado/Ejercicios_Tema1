@@ -41,4 +41,6 @@ resultado de la multiplicación. Cree una nueva función similar al ejercicio 9 
 
 
 13. (20 minutos) Escribe un programa que lee una cadena de caracteres de teclado e indique si es o no palíndroma (se lee igual de izquierda a derecha que de derecha a izquierda, sin tener en cuenta los espacios en blanco y las mayúsculas). Por ejemplo: "dábale arroz a la zorra el abad". Reutilice la función del ejercicio 12 para la entrada de teclado y cree otra función que dada una cadena de caracteres devuelva un boolean indicando si es o no palíndroma.
+
+
 https://github.com/nataliagdorado/Ejercicios_Tema1.git
